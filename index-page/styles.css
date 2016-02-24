@@ -1,0 +1,27 @@
+body {
+    background: darkolivegreen;
+    font-family: arial, helvetica, sans-serif;
+}
+
+#container {
+    background: cornsilk;
+    color: darkolivegreen;
+    width: 1000px;
+    min-height: 500px;
+    margin: 5px auto;
+    border-radius: 2px solid black;
+    border:20px;
+    padding: 10px;
+}
+
+header {
+    padding: 10px;
+}
+
+main{
+    ming-height: 400px;
+}
+
+footer {
+    padding: 10px;
+}
